@@ -1,0 +1,11 @@
+## Title:-|cffFFFFFFConROCX|r- |cff69CCF0Mage|r
+## Version: 2.0.2
+## Author: Vae, 2.0.2 updated by Lith
+## Interface: 30403
+## SavedVariablesPerCharacter: ConROCMageSpells
+## Dependencies: ConROCX
+## LoadOnDemand: 1
+
+mage_ids.lua
+mage_spellmenu.lua
+mage.lua
